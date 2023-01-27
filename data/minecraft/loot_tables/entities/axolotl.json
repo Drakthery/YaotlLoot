@@ -1,0 +1,45 @@
+{
+  "type": "entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "empty",
+          "weight": 99
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:egg",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "My Egg",
+                  "color": "dark_purple",
+                  "bold": false
+                }
+              ]
+            },
+            {
+              "function": "set_lore",
+              "lore": [
+                {
+                  "text": "I will be back and Kick ur Ass",
+                  "color": "light_purple",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
