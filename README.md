@@ -1,3 +1,11 @@
 # Datapack Totem Probability
 
-Changes normal mob loot from blaze,enderman,skeleton,wither_skeleton
+Changes Mobloot to next list:
+
+Blazes
+Creeper
+Enderman
+Ghast
+Piglin - Piglin_brute
+Wither_Skeleton
+Zombified_piglin
