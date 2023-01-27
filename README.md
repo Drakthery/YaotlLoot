@@ -1,3 +1,16 @@
 # Datapack Totem Probability
 
-Changes normal mob loot and deleted them
+Changes Mobloot to next list:
+
+Blaze
+Creeper
+Drowned
+Elder_Guardian
+Enderman
+Ghast
+Guardian
+Iron_golem
+Piglin_brute
+Piglin
+Wither_Skeleton
+Zombified_piglin
