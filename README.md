@@ -2,10 +2,15 @@
 
 Changes Mobloot to next list:
 
-Blazes
+Blaze
 Creeper
+Drowned
+Elder_Guardian
 Enderman
 Ghast
-Piglin - Piglin_brute
+Guardian
+Iron_golem
+Piglin_brute
+Piglin
 Wither_Skeleton
 Zombified_piglin
