@@ -19,7 +19,7 @@
             },
             {
               "function": "set_nbt",
-              "tag": "{Unbreakable:1b,CustomModelData:2002,Enchantments:[{id:\"minecraft:sharpness\",lvl:5s},{id:\"minecraft:smite\",lvl:5s},{id:\"minecraft:bane_of_arthropods\",lvl:5s},{id:\"minecraft:mending\",lvl:0s}]}"
+              "tag": "{Unbreakable:1b,CustomModelData:2002,tag:2002,Enchantments:[{id:\"minecraft:sharpness\",lvl:5s},{id:\"minecraft:smite\",lvl:5s},{id:\"minecraft:bane_of_arthropods\",lvl:5s},{id:\"minecraft:mending\",lvl:0s}]}"
             },
             {
               "function": "set_name",
