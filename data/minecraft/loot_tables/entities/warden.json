@@ -2,52 +2,17 @@
   "type": "entity",
   "pools": [
     {
-      "rolls": 1,
+      "rolls": 0,
+      "bonus_rolls": 0,
       "entries": [
-        {
-          "type": "empty",
-          "weight": 1
-        },
         {
           "type": "item",
           "weight": 1,
-          "name": "minecraft:netherite_sword",
+          "name": "minecraft:air",
           "functions": [
             {
               "function": "set_count",
               "count": 1
-            },
-            {
-              "function": "set_nbt",
-              "tag": "{tag:2001,Unbreakable:1b,CustomModelData:2002,Enchantments:[{id:\"minecraft:sharpness\",lvl:5s},{id:\"minecraft:smite\",lvl:5s},{id:\"minecraft:bane_of_arthropods\",lvl:5s},{id:\"minecraft:mending\",lvl:0s}]}"
-            },
-            {
-              "function": "set_name",
-              "name": [
-                {
-                  "text":"§k### §r §6§lESPAÑITA §4§lCHAOS §6§lSWORD §r §k###" 
-                }
-              ]
-            },
-            {
-              "function": "set_lore",
-              "lore": [
-                {
-                  "text":"sad"
-                }
-              ]
-            },
-            {
-              "function": "set_attributes",
-              "modifiers": [
-                {
-                  "attribute": "generic.attack_damage",
-                  "name": "generic.attack_damage",
-                  "operation": "addition",
-                  "amount": 14,
-                  "slot": "mainhand"
-                }
-              ]
             }
           ]
         }
