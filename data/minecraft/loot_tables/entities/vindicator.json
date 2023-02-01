@@ -1,0 +1,22 @@
+{
+    "type": "entity",
+    "pools": [
+      {
+        "rolls": 0,
+        "bonus_rolls": 0,
+        "entries": [
+          {
+            "type": "item",
+            "weight": 1,
+            "name": "minecraft:air",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
