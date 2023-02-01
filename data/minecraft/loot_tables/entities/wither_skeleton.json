@@ -27,7 +27,7 @@
             },
             {
               "function": "set_nbt",
-              "tag": "{display:{Name:'{\"text\":\"Nucleo Del CAOS\",\"color\":\"aqua\",\"bold\":true}',Lore:['{\"text\":\"Imbuido en las forjas del caos\"}']}}"
+              "tag": "{display:{Name:'{\"text\":\"Nucleo Del CHAOS\",\"color\":\"aqua\",\"bold\":true}',Lore:['{\"text\":\"Imbuido en las forjas del CHAOS\"}']}}"
             }
           ]
         }
